@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-Wilson is passionate about machine learning, full stack development and music. He is currently a master student at DePaul University studying computer science and concentrating on artificial intelligence.
+I'm passionate about machine learning, backend development and music. He is currently a master student at DePaul University studying computer science and concentrating on artificial intelligence.
 
 - 🔭 I’m currently working on Django backend and search engine
 - 🌱 I’m currently learning object oriented programming and functional programming in DePaul. 
