@@ -7,7 +7,7 @@ I'm passionate about machine learning, backend development and music. He is curr
 - 🌱 I’m currently learning distributed systems in DePaul and flutter. 
 - 💻 my porfile django website: https://laytonwuportfolio.herokuapp.com/
 - 🌃 my django blog: http://www.laytonwoohbill.com/
-- 📫 How to reach me: wilson833412@gmail.com
+- 📫 How to reach me: wwu833412@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make music @laytonwu on Spotify 
 
