@@ -5,7 +5,7 @@ I'm passionate about machine learning, backend development and music. He is curr
 
 - 🔭 I’m currently working on backend development.
 - 🌱 I’m currently learning distributed systems in DePaul and flutter. 
-- 💻 my porfile django website: https://laytonwuportfolio.herokuapp.com/
+- 💻 my porfile django website: https://layton-wu-portfolio.herokuapp.com/
 - 🌃 my django blog: http://www.laytonwoohbill.com/
 - 📫 How to reach me: wwu833412@gmail.com
 - 😄 Pronouns: he/him
