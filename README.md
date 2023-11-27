@@ -1,12 +1,10 @@
 ### Hi there 👋
-I'm passionate about machine learning, backend development and music. He is currently a master student at DePaul University studying computer science and concentrating on artificial intelligence.
+I'm passionate about machine learning, backend development and music. He is currently a backend engineer at Grubhub.
 
-
-
-- 🔭 I’m currently working on backend development.
-- 🌱 I’m currently learning distributed systems in DePaul and flutter. 
-- 💻 my porfile django website: https://layton-wu-portfolio.herokuapp.com/
-- 🌃 my django blog: http://www.laytonwoohbill.com/
+- 🔭 I have a master degree at DePaul University for computer science and concentrating on artificial intelligence.
+- 🌱 I’m currently learning distributed systems, CS50-AI and flutter. 
+- 💻 My porfile django website: https://layton-wu-portfolio.herokuapp.com/
+- 🌃 My django blog: http://www.laytonwoohbill.com/
 - 📫 How to reach me: wwu833412@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I make music @laytonwu on Spotify 
