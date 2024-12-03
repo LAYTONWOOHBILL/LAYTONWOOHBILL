@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm passionate about machine learning, backend development and music. He is currently a backend engineer at Grubhub.
+I'm passionate about machine learning, backend development and music. I'm currently a backend engineer at Grubhub.
 
 - 🔭 I have a master degree at DePaul University for computer science and concentrating on artificial intelligence.
 - 🌱 I’m currently learning distributed systems, CS50-AI and flutter. 
